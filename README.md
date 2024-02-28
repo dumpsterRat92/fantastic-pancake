@@ -17,6 +17,8 @@ Work Day Scheduler is a web application designed to help users organize their wo
 
 ## Features
 
+![screencapture-dumpsterrat92-github-io-fantastic-pancake-2024-02-27-17_05_22](https://github.com/dumpsterRat92/fantastic-pancake/assets/153157275/ec9be541-dbce-4eaf-b581-94c3cada61aa)
+
 - Display of current date at the top of the calendar.
 - Time blocks for standard business hours (9am to 5pm) with color-coding to indicate past, present, or future.
 - Ability to enter events for each time block.
@@ -36,7 +38,7 @@ To use the Work Day Scheduler:
 
 ## Deployment
 
-The application is deployed and accessible at [Live Demo](#) (replace # with the actual URL).
+The application is deployed and accessible at [Live Demo](https://dumpsterrat92.github.io/fantastic-pancake/).
 
 To deploy the application locally:
 
